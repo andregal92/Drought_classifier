@@ -1,0 +1,17 @@
+shap_id,ADO_ID,name,nodelink
+1,ADO_DSC_ITH1_0026,"Rio Plan a Erschbaum",53
+2,,"Rio Riva a Seghe",11
+3,ADO_DSC_ITH1_0004,"Rio Anterselva a Bagni Salomone",93
+4,,"Rio Braies a Braies",86
+5,ADO_DSC_ITH1_0030,"Rio Riva a Caminata",79
+6,ADO_DSC_ITH1_0021,"Rio Casies a Colle",90
+7,ADO_DSC_ITH1_0018,"Gadera a Pedraces",99
+8,ADO_DSC_ITH1_0003,"Aurino a Cadipietra",14
+9,ADO_DSC_ITH1_0023,"Ridanna a Vipiteno",111
+10,ADO_DSC_ITH1_0017,"Gadera a Mantana",105
+11,ADO_DSC_ITH1_0024,"Passirio a Merano",62
+12,ADO_DSC_ITH1_0001,"Aurino a Caminata",83
+13,ADO_DSC_ITH1_0002,"Aurino a S.Giorgio",85
+14,ADO_DSC_ITH1_0032,"Rienza a Vandoies",153
+15,ADO_DSC_ITH1_0013,"Adige a Ponte Adige",52
+16,ADO_DSC_ITH1_0012,"Adige a Bronzolo",200

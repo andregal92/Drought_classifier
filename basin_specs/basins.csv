@@ -1,0 +1,89 @@
+ID;DESCR;NODEOUT;IMG;EXTDESCR;AREA;OUTLETEASTCOORD;OUTLETNORTHCOORD;AVGQUOTE
+1;B1_Adige_a_monte_Diga di Resia;1360;;Adige a monte della Diga di Resia;179625000;;;2366.31872
+2;B2_RioRam_confl_Adige;1361;;B2_RioRam_confl_Adige;185437500;;;2118.402427
+3;B3_RioSaldura_a_valle_di_RiodiCunalunga;1362;;B3_RioSaldura_a_valle_di_RiodiCunalunga;62625000;;;2637.924152
+4;B4_INT_Adige_alla_confl_Rio_Saldura;1363;;B4_INT_Adige_alla_confl_Rio_Saldura;242000000;;;1928.822314
+5;B5_Adige_a_monte_confl_RioLasa;1420;;B5_Adige_a_monte_confl_RioLasa;235312500;;;2131.936
+6;B6_RioSilandro_a_monte_confl_RiodelleFontante;1421;;B6_RioSilandro_a_monte_confl_RiodelleFontante;33125000;;;2593.584906
+7;B7_Rio_Plima_a_monte_DigaGioveretto;1422;;B7_Rio_Plima_a_monte_DigaGioveretto;76937500;;;2742.729488
+8;B8_INT_RioPlima_confl_Adige;1423;;B8_RioPlima_confl_Adige;85750000;;;2122.886297
+9;B9_Adige_a_monte_Rio_di_Senales;1424;;B9_Adige_a_monte_Rio_di_Senales;240437500;;;1658.305173
+10;B10_Rio_di_Senales_a_monte_DigaVernago;1425;;B10_Rio_di_Senales_a_monte_DigaVernago;68750000;;;2565.636364
+11;B11_Rio_di_Senales_confl_Adige;1426;;B11_Rio_di_Senales_confl_Adige;152937500;;;2291.499796
+12;B12_INT_Adige_a_Tel;1427;;B12_INT_Adige_a_Tel;111937500;;;1604.187605
+13;B13_Rio_Plan_a_Plan;1428;;B13_Rio_Plan_a_Plan;49937500;;;2383.854819
+14;B14_INT_Passirio_a_Saltusio;1429;;B14_INT_Passirio_a_Saltusio;211625000;;;1702.776137
+15;B15_INT_Passirio_a_monte_Adige;1430;;B15_INT_tSaltusio_a_monte_Adige;72312500;;;1387.121867
+16;B16_RioValsura_a_monte_DigaZoccolo;1431;;B16_RioValsura_a_monte_DigaZoccolo;174875000;;;2160.900643
+17;B17_INT_rValsura_a_monte_DigaAlborelo;1432;;B17_INT_rValsura_a_monte_DigaAlborelo;37687500;;;1619.73466
+18;B18_INT_rValsura_a_Lana;1433;;B18_INT_rValsura_a_Lana;70062500;;;1483.586084
+19;B19_INT_Adige_a_monte_RioValsura;1434;;B19_INT_Adige_a_monte_RioValsura;105125000;;;1133.888228
+20;B20_INT_Adige_a_PonteAdige;1435;;B20_INT_Adige_a_PonteAdige;249250000;;;808.0742227
+21;B21_Talvera_a_valle_confl_RioValdurno;1436;;B21_tTalvera_a_valle_confl_RioValdurno;237312500;;;1901.15881
+22;B22_INT_tTalvera_a_Bolzano;1437;;B22_INT_tTalvera_a_Bolzano;188562500;;;1385.382831
+23;B23_INT_Isarco_a_monte_confl_Talvera;1438;;B23_INT_Isarco_a_monte_confl_tTalvera;500312500;;;1319.634
+24;B24_INT_Adige_a_Bronzolo;1439;;B24;68062500;;;884.3261
+25;B25_tEga_monte_Isarco;1440;;B25_tEga_monte_Isarco;165312500;;;1498.865784
+26;B26_RioGardena_a_monte_confl_RioSpisser;1441;;B26_RioGardena_a_monte_confl_RioSpisser;160937500;;;1974.097087
+27;B27_RiodiFunes_a_S.Pietro;1442;;B27_RiodiFunes_a_monte_RiodiMantigna;45312500;;;1833.241379
+28;B28_old;1443;;B28;366687500;;;1576.556
+29;B29_RiodiRacines_monte_confl_RIoRidanna;1444;;B29_RiodiRacines_monte_confl_RIoRidanna;47437500;;;1821.475626
+30;B30_RiodiGiovo_confl_RioRidanna;1445;;B30_RiodiGiovo_confl_RioRidanna;44250000;;;1790.112994
+31;B31_INT_RioRidanna_valle_confl_RiodiGiovo;1446;;B31_INT_RioRidanna_valle_confl_RiodiGiovo;113062500;;;2028.800442
+32;B32_RiodiFleres_a_ColleIsarco;1447;;B32_RiodiFleres_monte_confl_Isarco;73687500;;;1964.631043
+33;B33_INT_Isarco_a_Vipiteno;1448;;B33_INT_Isarco_a_Vipiteno;68125000;;;1735.412844
+34;B34_RioVizze_a_Novale;1449;;B34_RioVizze_a_Novale;109000000;;;2189.908257
+35;B35_INT_Isarco_a_CampodiTrens;1450;;B35_INT_Isarco_a_CampodiTrens;56875000;;;1457.582418
+36;B36_Aurino_a_Cadipietra;1451;;B36_Aurino_a_Cadipietra;155875000;;;2165.036087
+37;B37_RiodiRiva_monte_confl_RioFreddo;1452;;B37_RiodiRiva_monte_confl_RioFreddo;76875000;;;2383.577236
+38;B38_INT_RiodiRiva_a_Caminata;1453;;B38_INT_RiodiRiva_a_Caminata;40500000;;;2075
+39;B39_INT_Aurino_a_Aurino_a_Caminata;1454;;B39_INT_Aurino_a_Aurino_a_Caminata;145000000;;;1934.224138
+40;B40_RiodiBrais_confl_Rienza;1455;;B40_RiodiBrais_confl_Rienza;92750000;;;1908.086253
+41;B41_INT_Rienza_a_Monguelfo;1456;;B41_INT_Rienza_a_Monguelfo;171000000;;;1847.587719
+42;B42_RioCasies_a_Colle;1457;;B42_RioCasies_a_Colle;117062500;;;1964.815804
+43;B43_RioAnterselva_a_BagnidiSalomone;1458;;B43_RioAnterselva_a_BagnidiSalomone;82500000;;;2029.848485
+44;B44_old;1459;;B44;195125000;;;1867.467
+45;B45_old;1460;;B45;193250000;;;1485.126
+46;B46_RioGadera_monte_RioCiasò;1461;;B46_RioGadera_monte_RioCiasò;124812500;;;2028.092138
+47;B47_RioSVigilio_a_Longega;1462;;B47_RioSVigilio_a_Longega;103750000;;;1904.578313
+48;B48_RioGadera_monte_confl_Rienza;1463;;B48_RioGadera_monte_confl_Rienza;166187500;;;1696.916134
+49;B49_INT_Rienza_monte_DigaRiodiPusteria;1464;;B49_INT_Rienza_monte_DigaRiodiPusteria;254312500;;;1616.834603
+50;B50_RiodiValles_confl_Rienza;1920;;B50_RiodiValles_confl_Rienza;85812500;;;1863.292061
+51;B51_TorrentePassirio_a_monte_RioDrone;1921;;B51_TorrentePassirio_a_monte_RioDrone;80312500;;;2327.392996
+52;Rio Sesto a Sesto Pusteria;1942;;Sextnerbach in Sexten;62062500;;;1963.242699
+53;Drava a Versciaco;1943;;Drau in Vierschach;76562500;;;1725.142857
+54;Drava ad Arnbach;1944;;Drau in Arnbach;21062500;;;1776.557864
+55;B55_RioEvis_monte_DigadiNeves;1981;;B55_RioEvis_monte_DigadiNeves;23500000;;;2577.659574
+56;B56_INT_Aurino_a_AurinoSGiorgio;1984;;B56_INT_Aurino_a_AurinoSGiorgio;171625000;;;1771.595047
+57;B57_INT_Rienza_monte_Diga_Monguelfo;1998;;B57_INT_Rienza_monte_Diga_Monguelfo;46625000;;;1498.391421
+58;B58_INT_Rienza_a_valle_confl_Aurino;2002;;B58_INT_Rienza_a_valle_confl_Aurino;147437500;;;1483.382789
+59;B59_INT_Isarco_a_monte_DigaFortezza;2018;;B59_INT_Fortezza_a_monte_DigaFortezza;152562500;;;1691.315035
+60;B60_INT_Isarco_a_Bressanone;2019;;B60_INT_Isarco_a_Bressanone;220625000;;;1500.566572
+61;B61_RioSolda_a_PonteStelvio;2061;;RioSolda_a_PonteStelvio;130500000;;;2497.509579
+62;B62_INT_Adige_a_Oris;2062;;Interbaino Adige a Oris;55812500;;;1666.181411
+63;B63_INT_Adige_a_monte_confl_RioLasa;2063;;Interbacino Adige a monte confl RioLasa;49375000;;;1702.78481
+64;B64 Isarco alla Traversa di Colma;2090;;;246812500;;;1365.484933
+65;B65 INT Isarco a Bolzano Nord;2091;;;233937500;;;1303.847181
+66;B66_INT Isarco alla confluenza Adige;2092;;;22000000;;;792.0454545
+67;B67 Fossa Grande di Bronzolo ad Ora;2093;;;105437500;;;878.8974511
+68;B68 Rio Nero a Fontanefredde;2094;;;20312500;;;1588
+69;B69 INT Rio Nero a Ora;2095;;;35000000;;;1135.357143
+70;B70 Rio di Trodena a Egna;2096;;;22437500;;;1148.467967
+71;B71_Bac fittizio S Floriano;2172;;Bacino fittizio;62500;;;1700
+72;B72_Lago_Verde;2193;;;6312500;;;2923.762376
+73;B73_Fontana_Bianca;2194;;;8250000;;;2416.666667
+74;B74_Quaira_della_Miniera;2195;;;3250000;;;2646.153846
+75;B75_new_Valsura_a_Zoccolo;2196;;;112312500;;;1943.850863
+76;B76_Val_Crapa;2197;;;8437500;;;2294.074074
+77;B77_Rio_Montechiesa;2198;;;8562500;;;2415.328467
+78;B78_Lago_Pesce;2199;;;6687500;;;2572.897196
+79;B79_Rio_Piles;2200;;;5250000;;;2635.714286
+80;B80_Rio_Tovo;2201;;;5875000;;;2534.042553
+81;B81_Rio_Vallaccia;2202;;;9437500;;;2525.165563
+82;B82_Rio_Monego;2203;;;4750000;;;2494.736842
+83;B83_Rio_Marano;2204;;;14375000;;;1657.391304
+84;B84_Rio_Chiese;2205;;;16375000;;;1947.328244
+85;B85_Rio_Fonderia;2206;;;1312500;;;2300
+86;B86_new_Valsura_a_Lana;2207;;;39312500;;;1226.868045
+87;B87_new_Valsura_ad_Alborelo;2208;;;32125000;;;1523.735409
+;;;;;7101.0625;;;1823.568389
