@@ -1,7 +1,8 @@
 /daily_data/
-/subbasins_plots/
+/subbasin_plots/
 /OUT_CONC/combined_out_average_qrun_qsub_qbase_qglac_stg_gw.txt
 /OUT_CONC/combined_out_average_snow_rain_we_snowmelt_sca_et.txt
+OUT_CONC/combined_out_average_qrun_qsub_qbase_qglac_stg_gw_daily.txt
 /OUT_CONC/combined_out_flow.txt
 /OUT_CONC/combined_out_rainfall.txt
 /OUT_CONC/combined_out_reservoir.txt
