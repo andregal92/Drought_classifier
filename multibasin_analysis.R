@@ -12,7 +12,10 @@ library(sf)
 library(ggforce)
 
 # Define reusable path
-fig_path <- "C:/Users/angalletti/Desktop/DOUBLECHECK"
+fig_core  <- file.path("figures", "core")
+fig_extra <- file.path("figures", "extra")
+dir.create(fig_core,  recursive = TRUE, showWarnings = FALSE)
+dir.create(fig_extra, recursive = TRUE, showWarnings = FALSE)
 
 # Define drought color palette
 drought_colors <- c(
@@ -55,7 +58,7 @@ study_basins <- study_basins %>%
 ##### Read hydrometeo inputs #####
 
 daily_avg_data <- read_csv("OUT_CONC/combined_out_average_snow_rain_we_snowmelt_sca_et_daily.txt")
-temp_data <- read_csv("daily_data/temperature.txt")
+temp_data <- read_csv("OUT_CONC/temperature.txt")
 flow_data <- read_csv("OUT_CONC/combined_out_flow_daily.txt")
 ##### aggregate at the study basin scale #####
 
@@ -1175,7 +1178,7 @@ ggplot() +
 
 # Save plot using ggsave
 ggsave(
-  filename = file.path(fig_path, "duration_sensitivity.png"),
+  filename = file.path(fig_core, "duration_sensitivity.png"),
   width = 3.3, height = 3, units = "in", dpi = 600, scale = 1.5
 )
 
@@ -1659,7 +1662,7 @@ p_up <- {
 final_pie <- (final_plot | p_up) + plot_layout(widths = c(0.7, 0.3))
 print(final_pie)
 
-png(file.path(fig_path, "unica.png"), width = 6.85, height = 3.6, units = "in", res = 600)
+png(file.path(fig_core, "unica.png"), width = 6.85, height = 3.6, units = "in", res = 600)
 print(final_pie)       # or print(p) if p is a ggplot
 dev.off()
 
@@ -2117,7 +2120,7 @@ p <- ggplot(heatmap_long, aes(x = month, y = row_id, fill = prob)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 # Save output as PDF
-pdf(file.path(fig_path, "cond_prob_heatmap.pdf"), 
+pdf(file.path(fig_core, "cond_prob_heatmap.pdf"), 
     width = 9, height = 5)  # dimensions in inches
 print(p)
 dev.off()
@@ -2239,7 +2242,7 @@ p <- ggplot(heatmap_plotdata) +
         axis.text.y = element_text(size = 8))
 
 # Save output as PDF
-pdf(file.path(fig_path, "shares_heatmap.pdf"), 
+pdf(file.path(fig_core, "shares_heatmap.pdf"), 
     width = 9, height = 5)  # dimensions in inches
 print(p)
 dev.off()
@@ -2405,7 +2408,7 @@ final_plot <- wrap_plots(plot_list, ncol = 1) +
   plot_layout(heights = rep(1, length(plot_list)))
 
 # Step 7 — Save output
-png(file.path(fig_path, "5_param_lines_ribbons_norm_annotated_1000_a.png"), width = 11.7, height = 8.3, units = "in", res = 600)
+png(file.path(fig_extra, "5_param_lines_ribbons_norm_annotated_1000_a.png"), width = 11.7, height = 8.3, units = "in", res = 600)
 print(final_plot)
 dev.off()
 
@@ -2429,7 +2432,7 @@ final_plot <- ggplot(mc_summary_normalized, aes(x = param_value, group = classif
     legend.position = "none"
   )
 
-png(file.path(fig_path, "rotated_7x5_mc_plot_a.png"), width = 6.85, height = 9.5, units = "in", res = 600)
+png(file.path(fig_core, "rotated_7x5_mc_plot_a.png"), width = 6.85, height = 9.5, units = "in", res = 600)
 print(final_plot)
 dev.off()
 
